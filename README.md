@@ -7,5 +7,5 @@ Create a class called Sundae that stores information abount an ice cream sundae.
 - Write a complete Java program given an algorithm
 - Design and implement a class
 - How to write efficient conditional statements and loops
-- Create a statistics menu
+- Switch statements
 - Create and manage private and public variables and methods
