@@ -1,7 +1,7 @@
 # Sundae
 ## Goal
 
-Create a class called Sundae that stores information abount an ice cream sundae. Use the driver class to help keep track of sundaes and generate statistics about the choices cx have made- for COMP 248 class
+Create a class called Sundae that stores information abount an ice cream sundae. Use the driver class to help keep track of sundaes and generate statistics about the choices clients have made - for Object Oriented Prgramming class (COMP 248) 
 
 ## What I learned
 - Write a complete Java program given an algorithm
